@@ -1,0 +1,13 @@
+.category-btn {
+  background-color: #777672;
+  height: 38px;
+  width: 130px;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: 'bree-serif';
+  font-style: italic;
+  border-width: 0px;
+  margin: 4px;
+}

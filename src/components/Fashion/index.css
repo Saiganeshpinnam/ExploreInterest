@@ -1,0 +1,82 @@
+.fashion-item {
+  height: 495px;
+  width: 300px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.user-image {
+  height: 450px;
+  width: 300px;
+  border-radius: 7px;
+}
+.card-item-elements-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.likes-comments-share-options-container {
+  display: flex;
+  flex-direction: row;
+  width: 64%;
+  justify-content: space-around;
+  align-items: center;
+}
+.likes-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 42%;
+  padding: 2px;
+}
+.favorite-icon {
+  height: 22px;
+  width: 22px;
+}
+.likes-count {
+  color: #2f332f;
+  font-size: 13px;
+  font-weight: 'Roboto';
+}
+.comments-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 42%;
+}
+.comment-icon {
+  height: 20px;
+  width: 20px;
+}
+.comments-count {
+  color: #2f332f;
+  font-size: 13px;
+  font-weight: 'Roboto';
+  margin-left: 2px;
+}
+.more-options {
+  height: 23px;
+  width: 23px;
+}
+.share-icon {
+  height: 20px;
+  width: 20px;
+  margin-left: 2px;
+}
+.save-btn {
+  background-color: #f71006;
+  height: 38px;
+  width: 85px;
+  border-radius: 9px;
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+  border-width: 0px;
+}
+.activate-like-btn {
+  fill: #f71006;
+}
